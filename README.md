@@ -1,25 +1,36 @@
 # HR Analytics Portfolio
-## Project Overview
-This repository contains my HR Analytics portfolio project developed using Python, SQL, and Power BI.
 
-## Tools Used
+## 📌 Project Overview
+This project analyzes employee attrition and workforce data using the IBM HR Analytics Employee Attrition dataset. The analysis was performed using Python, SQL, and Power BI to generate meaningful business insights and an interactive dashboard.
+
+## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (MySQL)
 - Power BI
 
-## Project Files
+## 📂 Project Files
 - HR Analytics Python Notebook (.ipynb)
 - Power BI Dashboard (.pbix)
-- Dashboard PDF (.pdf)
+- Power BI Dashboard PDF (.pdf)
 
-## Key Insights
-- Employee Attrition Analysis
+## 📊 Dashboard Highlights
+- Total Employees
+- Average Employee Age
 - Department-wise Employee Distribution
 - Job Role Analysis
 - Gender Distribution
 - Education Field Analysis
-- Age Distribution
-- Average Employee Age
+- Employee Age Distribution
+- Employee Attrition Analysis
 
-## Dataset
+## 📈 Business Insights
+- Identified employee attrition trends.
+- Compared employee distribution across departments and job roles.
+- Analyzed workforce demographics by age, gender, and education.
+- Built an interactive Power BI dashboard for HR decision-making.
+
+## 📁 Dataset
 IBM HR Analytics Employee Attrition Dataset
+
+## 👩‍💻 Author
+Navinya Arumugam
